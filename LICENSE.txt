@@ -1,4 +1,4 @@
-MIT License
+MI License
 
 Copyright (c) 2022 Shubh Sharma
 
